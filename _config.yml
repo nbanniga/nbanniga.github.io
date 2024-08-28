@@ -22,13 +22,9 @@ repository               : "nbanniga/nbanniga.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "About Me"
+  name             : "Niall Bannigan"
   pronouns         : # example: "she/her"  
-  bio              : "I recently graduated with my Masters of Engineering Science degree. 
-                      My background is in fluid dynamics, materials science, computational 
-                      and numerical simulation, and computer-aided design engineering. 
-                      Currently, I am likely to be 3D printing something, involved in 
-                      high-power rocketry, or designing a liquid rocket engine turbopump."
+  bio              : "Recent master's degree graduate"
   location         : "Montréal, QC"
   employer         : "University of Western Ontario"
   uri              : # URL
@@ -294,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Montreal # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
