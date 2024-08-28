@@ -1,1 +1,5 @@
-I recently graduated with my Masters of Engineering Science degree. My background is in fluid dynamics, materials science, computational and numerical simulation, and computer-aided design engineering. When I am not doing school-related projects, I am likely to be 3D printing something, involved in high-power rocketry, or designing a liquid rocket engine turbopump.
+I recently graduated with my Masters of Engineering Science degree. 
+                      My background is in fluid dynamics, materials science, computational 
+                      and numerical simulation, and computer-aided design engineering. 
+                      Currently, I am likely to be 3D printing something, involved in 
+                      high-power rocketry, or designing a liquid rocket engine turbopump.
