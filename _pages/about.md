@@ -11,7 +11,7 @@ Welcome to my website! I made this as a way to demonstrate some of my skills and
 
 ---
 
-Bienvenue sur mon mon site web ! Je l'ai créé pour montrer quelques compétances et travaux passés, ainsi que pour préserver quelques des souvenirs que tout le monde peut voir. Utilisez la barre de navigation pour accéder au sujet qui vous intéresse. Si vous embauchez, souhaitez en savoir plus, ou voulez me dire que j'ai fait une erreur, n'hésitez pas à n'envoyer un courriel !
+Bienvenue sur mon site web ! Je l'ai créé pour montrer quelques compétances et travaux passés, ainsi que pour préserver quelques des souvenirs que tout le monde peut voir. Utilisez la barre de navigation pour accéder au sujet qui vous intéresse. Si vous embauchez, souhaitez en savoir plus, ou voulez me dire que j'ai fait une erreur, n'hésitez pas à n'envoyer un courriel !
 
 About Me
 ======
