@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I made this as a way to demonstrate some of my skills and past work and to preserve some memories of mine for all to see. Use the navigation bar to get to your topic of interest. If you are hiring, interested to know more, or want to tell me how incorrectly I did something please feel free to send me an e-mail!
+Welcome to my website! I made this as a way to demonstrate some of my skills and past work and to preserve some memories of mine for all to see. Use the navigation bar to get to your topic of interest. If you are hiring or simply want to know more about something I have worked on please feel free to send me an e-mail!
 
 ---
 
-Bienvenue sur mon site web ! Je l'ai créé pour montrer quelques compétances et travaux passés, ainsi que pour préserver quelques des souvenirs que tout le monde peut voir. Utilisez la barre de navigation pour accéder au sujet qui vous intéresse. Si vous embauchez, souhaitez en savoir plus, ou voulez me dire que j'ai fait une erreur, n'hésitez pas à n'envoyer un courriel !
+Bienvenue sur mon site web ! Je l'ai créé pour montrer quelques compétances et travaux passés, ainsi que pour préserver quelques des souvenirs que tout le monde peut voir. Utilisez la barre de navigation pour accéder au sujet qui vous intéresse. Si vous embauchez ou simplement souhaitez en savoir plus de quelque chose vous avez trouvé ici n'hésitez pas à n'envoyer un courriel !
 
 About Me
 ======

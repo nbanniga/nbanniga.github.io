@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Niall Bannigan"
   pronouns         : # example: "she/her"  
-  bio              : "Recent master's degree graduate"
+  bio              : "Mechanical Designer and Stress Analyst"
   location         : "Montréal, QC"
-  employer         : "University of Western Ontario"
+  employer         : # "University of Western Ontario"
   uri              : # URL
   email            : "niallbann@gmail.com" 
 
