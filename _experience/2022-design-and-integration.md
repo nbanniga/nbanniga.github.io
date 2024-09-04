@@ -4,7 +4,8 @@ collection: experience
 type: "Academic Projects"
 permalink: /experience/2022-design-and-integration
 venue: "Launch Canada Turbopump Team"
-date: 2022-12-02
+start_date: 2022-12-02
+end_date: Present
 location: "Mississauga, Canada"
 ---
 

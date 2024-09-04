@@ -1,7 +1,7 @@
 ---
 title: "Tracking the Centre of Asymmetric Vortices Using Wind Velocity Vector Data Fields"
 collection: publications
-permalink: /publication/2022-09-09-tracking-the-centre-of-asymmetric-vortices-using-wind-velocity-vector-data-fields
+permalink: /publications/2022-09-09-tracking-the-centre-of-asymmetric-vortices-using-wind-velocity-vector-data-fields
 excerpt: 'This paper covers the novel methodology I applied to extract a precise point location as the centre of a tornado in an isogrid velocity vector field'
 date: 2022-09-09
 venue: 'Boundary-Layer Meteorology'

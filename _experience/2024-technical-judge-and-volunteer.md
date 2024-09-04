@@ -4,7 +4,8 @@ collection: experience
 type: "Volunteer"
 permalink: /experience/2024-technical-judge-and-volunteer
 venue: "Launch Canada"
-date: 2024-08-16
+start_date: 2024-05-04
+end_date: Present
 location: "Timmins, Canada"
 ---
 
