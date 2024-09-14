@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'experience' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.start_date | default: "1900-01-01" | date: "%Y" }}&ndash;{{ page.end_date | default: "Present" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          {% if page.published == true %}
+          {% if page.beenpublished == true %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
             <p>Awaiting review from <i>{{ page.venue }}</i> since {{ page.date | default: "1900-01-01" | date: "%A, %d %B, %Y" }} </p>

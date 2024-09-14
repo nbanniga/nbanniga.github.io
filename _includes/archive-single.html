@@ -41,7 +41,11 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.beenpublished == true %}
+            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% else %}
+            <p>Awaiting review from <i>{{ post.venue }}</i> since {{ post.date | default: "1900-01-01" | date: "%A, %d %B, %Y" }} </p>
+          {% endif %}
         {% elsif post.collection == 'experience' %}
           <p> {{ post.image | default: "" }}</p>
         {% elsif post.date %}
