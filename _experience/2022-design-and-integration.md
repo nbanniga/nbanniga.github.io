@@ -1,5 +1,5 @@
 ---
-title: "Design and Integration (Volunteer)"
+title: "Design and Integration"
 collection: experience
 type: "Academic Projects"
 permalink: /experience/2022-design-and-integration
@@ -25,5 +25,6 @@ My Contributions
 
 My role has included designing an open-source, spreadsheet-based part management system to automate the process of collecting materials, unit costs, user modifications, iterations, and more to generate a coherent summary of all subsystems. Further, I have been performing the manual calculations to validate numerical simulations, for example, to check pipe flow losses through the coolant lines. I am also responsible for custom designed components including a male-threaded nut to withstand the thrust force along the shaft when the turbopump is active and hold the entire assembly together and a precision bearing spring-preloader to maintain axial loading as thermal or other operating parameters fluctuate.
 
-Heading 3
+<!-- Heading 3
 ======
+ -->
